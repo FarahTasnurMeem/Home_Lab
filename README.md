@@ -3,7 +3,8 @@
 1. Simulating an attack(Using Kali Linux against Ubuntu)
 ![image](https://github.com/user-attachments/assets/3ed88968-338d-4b80-bbbe-4b140fb022db)
 
-Configuring Firwall:
+Configuring Firewall:
+
 ![image](https://github.com/user-attachments/assets/98a6643b-7ce8-48d5-8279-236987b053ef)
 
 
