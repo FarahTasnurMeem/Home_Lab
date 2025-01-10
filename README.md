@@ -115,7 +115,7 @@ The main goals of this project are:
 
 ### Step 7: Document Your Setup
 1. **Network Diagram:**
-   - Create a diagram using [draw.io](https://app.diagrams.net/) to illustrate the virtual network, including IP addresses and VM names.
+   ![image](https://github.com/user-attachments/assets/387b5b62-8e66-4ef0-b4fc-7ec90d9b0b2a)
 2. **Configuration Details:**
    - Document settings for each VM, including:
      - Network configurations (e.g., NAT Network setup).
