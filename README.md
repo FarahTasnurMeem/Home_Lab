@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/387b5b62-8e66-4ef0-b4fc-7ec90d9b0b2a)
 
+
+
 # Cybersecurity Home Lab
 
 ## Project Overview
@@ -86,6 +88,9 @@ The main goals of this project are:
    nmap -A 10.0.2.15
    ```
    Replace `10.0.2.15` with the IP address of your Ubuntu VM.
+   
+   ![Simulating an attack (Using Kali Linux against Ubuntu)](https://github.com/user-attachments/assets/3ed88968-338d-4b80-bbbe-4b140fb022db)
+
 #### Defend Against Attacks:
 1. On Ubuntu, install and configure the Uncomplicated Firewall (UFW):
    ```bash
@@ -95,6 +100,8 @@ The main goals of this project are:
    sudo ufw allow from 10.0.2.16 # Replace with the IP of Kali VM
    sudo ufw status
    ```
+   
+   ![Configuring Firewall](https://github.com/user-attachments/assets/98a6643b-7ce8-48d5-8279-236987b053ef)
 
 ### Step 6: Analyze Network Traffic
 1. Install and launch Wireshark on the Ubuntu VM:
@@ -103,6 +110,8 @@ The main goals of this project are:
    sudo wireshark
    ```
 2. Use Wireshark to capture and analyze network traffic during simulated attacks.
+   
+   ![Analyzing Network Traffic](https://github.com/user-attachments/assets/9ddf6718-d688-4b26-a3f9-f78761271397)
 
 ### Step 7: Document Your Setup
 1. **Network Diagram:**
@@ -128,7 +137,8 @@ This project successfully establishes a home lab environment for cybersecurity p
 - Provide hands-on experience with tools like Wireshark, nmap, and UFW.
 - Serve as a foundation for learning advanced cybersecurity concepts.
 
----
+
+
 
 1. Simulating an attack(Using Kali Linux against Ubuntu)
 ![image](https://github.com/user-attachments/assets/3ed88968-338d-4b80-bbbe-4b140fb022db)
