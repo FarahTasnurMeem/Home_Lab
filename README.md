@@ -18,6 +18,15 @@ To analyze network traffic using tools like Wireshark.
 
 To document configurations and create a network diagram for reference.
 
+**Features**
+
+Virtual network with multiple VMs (Ubuntu and Kali Linux).
+
+Network simulation using NAT Networking.
+
+Tools for cybersecurity analysis installed and configured (e.g., Wireshark, nmap, UFW).
+
+Documentation of VM configurations and network architecture.
 
 1. Simulating an attack(Using Kali Linux against Ubuntu)
 ![image](https://github.com/user-attachments/assets/3ed88968-338d-4b80-bbbe-4b140fb022db)
